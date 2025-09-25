@@ -94,11 +94,6 @@ Las imágenes están disponibles públicamente en Docker Hub:
 - **PROD**: `roykostrun/nodejs-quotes-app:prod-v1.0`
 - **Latest**: `roykostrun/nodejs-quotes-app:latest`
 
-### Ejecutar desde Docker Hub
-```bash
-# Usar las imágenes publicadas (opcional)
-docker-compose -f docker-compose.hub.yml up -d
-```
 
 ## 📊 Monitoreo y Logs
 
